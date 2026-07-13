@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+images/
+clean_images/
+unet_output/
+ground_truth/
