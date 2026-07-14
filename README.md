@@ -88,7 +88,7 @@ Ensure your hardware environment has the following dependencies:
 * CUDA 12.2 & TensorRT 10.x
 * Docker & Docker Compose
 
-### 1. Installation
+### Installation
 Clone the repository and set up your virtual environment:
 ```bash
 git clone [https://github.com/Pooj-a247/Diabetic_Retinopathy.git](https://github.com/Pooj-a247/Diabetic_Retinopathy.git)
